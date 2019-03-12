@@ -2,4 +2,4 @@ This project is for interview. We had put three images in it. You would receive 
 
 Don't worry it's not a such difficult quiz. 
 
-We have already provided some tips. However if those tips can't resolve your dilemma you can ask us anytime.
+We have already provided some tips. However if those tips can't resolve the dilemma you face you can ask us anytime.
